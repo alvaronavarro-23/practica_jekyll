@@ -21,3 +21,5 @@ plugins:
      - jekyll-feed
      - jekyll-sitemap
      - jekyll-seo-tag
+title: Practica Jekyll
+url: "https://alvaronavarro-23.github.io"
